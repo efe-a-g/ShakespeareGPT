@@ -1,0 +1,1 @@
+A transformer based language model that learns from Shakespeare texts. The architecture uses 4 layers of transformer blocks with each transformer block containing 4 attention heads followed by an MLP layer. The token are the characters found in the text. This was built as an exercise to understand the transformer architecture more deeply.
